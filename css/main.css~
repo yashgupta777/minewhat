@@ -1,0 +1,136 @@
+#header p{
+	color: white;
+	background: #DC1626;
+	padding: 1%;
+	margin-bottom: 0px;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+#header{
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+}
+.innerheader{
+	background-color: whitesmoke;
+	padding: 1%;
+
+}
+.innerheader p{
+	font-size: 20px;
+	text-transform: uppercase;
+}
+.contentbody{
+	border-top: 1px solid #D3D5D3;
+}
+#contentheading{
+	font-size: 18px;
+	color: black;
+	text-transform: uppercase;
+	padding: 3%;
+	font-weight: lighter;
+	color: black;
+
+}
+.listtitle{
+	font-weight: 600;
+	padding-top: 1%;
+    padding-left: 3%;
+    margin-right: 10% !important;
+    width: 80%;
+    margin-left: 2% !important;
+    background: #f1f1f1;
+    padding-right: 5%;
+    line-height: 2;
+    margin-bottom: 1%;
+}
+.listtitle p{
+	float: left;
+	font-size: 18px;
+
+}
+.listcontent{
+	text-transform: uppercase;
+	font-size: 16px;
+	padding-left: 3%;
+  margin-right: 10% !important;
+  width: 80%;
+  margin-left: 2% !important;
+  background: #f8f8f8;
+  padding-right: 5%;
+  line-height: 2;
+  margin-bottom: 1%;
+}
+.listcontent:hover {
+	cursor: pointer;
+}
+.productthumb:hover {
+cursor: pointer;
+}
+.contentbody{
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+}
+.productthumb {
+    border: 1px solid #adadad;
+    margin-bottom: 20px;
+    overflow: auto;
+}
+.productthumb .image{
+	text-align: center;
+}
+.productthumb .captionproduct {
+    padding: 0 20px;
+    min-height: 180px;
+}
+.captionproduct h4{
+	color: #adadad;
+	text-transform: uppercase;
+}
+.captionproduct h5{
+	color: #d3d3d3;
+}
+.captionproduct span{
+	color: #00cd00;
+}
+.innerproductcontent{
+	    padding-left: 7%;
+    padding-right: 10%;
+}
+.leftfloat{
+	float: left;
+}
+.rightfloat{
+	float: right;
+}
+.contentcolorleft{
+	color:#adadad;
+    font-size: 16px;
+    font-weight: 400;
+        padding-top: 5%;
+}
+.contentcolorright{
+	font-size: 16px;
+	    padding-top: 5%;
+}
+
+#productheading{
+    margin-top: 2%;
+    font-size: 18px;
+    color: black;
+    text-transform: uppercase;
+    padding: 2%;
+    font-weight: lighter;
+    color: black;
+}
+
+#productcontenttop{
+	    border-top: 1px solid #d3d3d3;
+}
+.image span{
+    position: absolute;
+    margin-top: 7%;
+    background: #d3d3d3;
+    font-size: 20px;
+    padding: 5px 15px;
+}
